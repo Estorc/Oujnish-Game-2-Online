@@ -1,0 +1,124 @@
+Theme4 : Oujnish Game
+Theme1 : Une très vielle légende
+Town3 : Une journée comme les autres
+Scene7 : Vérifions tes aptitudes !
+2000_Field2 : Le légendaire Etchebest
+Field1 : La grande réunion
+Scene4 : La tragédie se répète
+
+Field2 : Forêt lugubre
+Battle DJ Weenie : J'ai pété ça pue (Instrumental)
+Battle8 : Puissant adversaire
+sagemusic : Epic Sage Guy
+Castle1 : Un monde périlleux
+Town1 : Un jour joyeux
+Town4 : Sous le regard de l'astre lunaire
+
+RMMV_03_The_Calm : Les échos du vide
+RMMV_Scene4 : Ergoyk, la divinité déchue
+Castle3 : La ville des nuages
+RMMV_Scene2 : Les aqueducs corrompus
+yanderedev_fight : You Spin Me Round (Like a Record)
+
+Dungeon6 : Les montagnes flamboyantes
+Scene5 : La Broken Shovel
+RMMV_03_Suspense : Quelque chose se trame !
+RMMV_Battle4 : Casses-têtes flamboyants
+marc_thunder_fight : La colère de l'empereur
+
+Scene2 : Vers de nouvelles terres
+Scene6 : Attaque surprise !
+hymne-sovietique : Hymne Soviétique
+RMMV_03_Childhood_Memories : Souviens-toi
+the-diablox9-theme : DiabloX9
+RMMV_03_A_Gentle_Breeze : La cité des neiges
+RMMV_Town3 : Les flocons dans la pénombre
+
+ayuwoki_fight : Le démon Ayuwoki
+asmr-tower : La malédiction d'Ayuwoki
+DarkLair : Étrange dimension
+Ayujiyan_battle : Smooth Criminal
+RMMV_03_Labyrinth : La forteresse des damnés
+RMMV_03_The_Final_Battle : Les émissaires du chaos
+RMMV_03_Blessed_Waltz : Le Bloups Mayhem
+
+RMMV_03_The_Colosseum : Les canyons infinis !
+Dungeon5 : La colère des canyons
+andre_fight : André
+dio_fight : Dio Brando
+metal-sonic_fight : Metal Sonic
+RMMV_Dungeon7 : Le pinacle du monde
+SuperEvil-base : Repaire top secret
+RMMV_Battle7 : Le vrai pouvoir du travail en équipe
+hauphal_theme : Metal Sage Guy
+RMMV_Theme3 : Prise d'assaut du QG des canyons
+
+RMMV_03_Cathedral : La porte de la légende
+RMMV_03_Church : La prophétie
+thanoscarchase : Course-poursuite infernale
+RMMV_Battle8 : La machine du diable
+Battle5 : Thanos Car inactive
+RMMV_03_Otherwordly_Corridor : Thanos Car active
+
+RMMV_03_Cybercity : Thanos City
+Scene3 : Dans l'ombre des grattes-ciels
+Field3 : Louis-Émile de Réac SARL
+RMMV_03_Chasing_Fortune : L'île aux addictions
+dominujnish-fight : Le défi des ancêtres
+RMMV_03_Wings_to_the_sky : Aero-Stellayhem
+
+roadtothanos : Le dernier voyage
+thanos-canon-theme : La dernière menace !
+RMMV_Field3 : L'antre du malin
+Battle6 : Thanos Donjon
+RMMV_03_Endless_Battle : Thanos
+labitascosmicas-theme : Son.mp3
+Battle7 : Calamité finale
+badendingcredits : Tourner les serviettes
+RMMV_03_Battle's_Advent : Adieu Oujnish Land...
+ThanosBattlePhase2 : Le combat final !
+RMMV_03_Sorrow : La fin d'une épopée
+borderland_dubstep : L'écho de l'apocalypse
+
+Battle3 : A l'attaque !
+Battle4 : Combat au coeur de l'inconnu
+Battle2 : Combat dans l'antre du dragon
+RMMV_Battle2 : Le gardien des antres
+RMMV_03_Melee : Sous le regard du maître
+
+2000_Thief : Maladresse
+RMMV_03_Altar_of_Darkness : La magie de l'ombre
+RMMV_03_Battle_Against_the... : La domination du mal
+RMMV_03_Creeping_Darkness : Sous-fifre du mal
+nightmare : Cauchemar
+RMMV_03_Fantasy_Forest : Un héritage du passé
+RMMV_Dungeon4 : Sépulture oubliée
+RMMV_Field4 : Le dojo du Hokuto Shinken
+r'lyeh : R'lyeh.
+8BitLabyrinth : Int3rn3t
+RMMV_03_Ice_Labyrinth : Hors du temps
+astral : Les origines du monde
+
+Theme3 : Les Seigneurs de l'apocalypse
+SpeculoFerosa-Fight : Lötê Fêròsä
+YandereDevFinalBattle : Yandere Dev, Creator of the Internet
+RMMV_Battle5 : Marc Thunder, The invulnerable
+ken-fight : Ai Wo Torimodose!!
+ken-finalfight : Kenshiro, Master of Hokuto Shinken
+beast-fight : Red Zone - 123Lunatic
+genalovaylon : Genalovaylon
+stained-brutal-genophobia : Stained Brutal Genophobia
+
+pillarfight : Piliers
+pillarmenfight : Hommes du pilier
+lightenter : Le puit de l'ascension
+Bonechill-Appear : Un sinistre démon
+Bonechill-fight : Le maître des antres
+
+Battle Ninjaxx : Wesh wesh canne à pêche
+legendaryshortsword : La légendaire !
+
+labitascosmicas-battletheme : Teubus Magnus
+RaptorEstorcFinalPhase : BurnOut
+KingKong_Theme : King Kong
+KingKong_Final : Funk Overload
